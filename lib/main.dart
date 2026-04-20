@@ -5,6 +5,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:medisync_connect/features/auth/login_screen.dart';
 import 'package:medisync_connect/features/auth/role_checker.dart'; // Import state management
 
+//main function
 void main() async {
   WidgetsFlutterBinding.ensureInitialized(); // Prepares the Flutter engine
   
